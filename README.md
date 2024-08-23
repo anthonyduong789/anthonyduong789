@@ -33,11 +33,6 @@ Database.
  React for a responsive frontend, and C# with the .NET framework for a robust
  backend. Currently, the application is in active development.
 
-## Leadership & Advocacy 🌟
-- **Vets Who Code:** As the Executive Director, I have transformed traditional educational models by integrating advanced technology and data analytics to better serve veteran students.
-- **Community Engagement:** Built a robust community of tech professionals and veterans, facilitating mentorship, networking, and career opportunities. 🤝
-- **Public Speaking:** Regular speaker at tech conferences, advocating for veterans’ transition into tech and sharing insights on tech education innovations. 🎤
-
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my skils in software development through more hands on experience
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
