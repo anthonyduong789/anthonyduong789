@@ -27,11 +27,7 @@ Database.
  web-app that allows users to customize their practice sessions with random
  pauses. In addition, has other useful tools to help with focus. Made this for my
  Rhythms of North India class to help learn an instrument
-- **[ForumFlow](https://github.com/ForumFlow/ForumFlow):** Web application that enhances user engagement by allowing users to upload
- FAQs and host discussion sessions similar to Reddit forums for their
- presentations. It uses JSON Web Tokens (JWT) for secure session management,
- React for a responsive frontend, and C# with the .NET framework for a robust
- backend. Currently, the application is in active development.
+
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my skils in software development through more hands on experience
